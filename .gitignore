@@ -1,0 +1,9 @@
+Backend\.env
+
+__pycache__/
+*.py[cod]
+*.pyo   
+
+*.pyd
+
+*.pem
