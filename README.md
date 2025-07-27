@@ -6,3 +6,4 @@
 6. got to running_usl/docs (navigate to '/docs')
 7. use auth/login endpoint to login
 8. password for all the users is same: `Paves@123`
+9. Added comments to check pull request
